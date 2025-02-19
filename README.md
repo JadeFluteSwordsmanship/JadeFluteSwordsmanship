@@ -21,22 +21,26 @@
 
 Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Python🐍 is my weapon of choice, and coding is my art! Besides programming, I like delicious food 🥗🥩🌮🍣 and playing computer games🖥️🎮🕹️.
 
-<!-- 右侧图片浮动 -->
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" 
-     alt="GIF" width="320" style="float: right; margin-left: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  
+  <!-- 左侧 Status Quo -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">Current Status Quo</h3>
+    <ul style="margin-top: 0; padding-top: 0;">
+      <li>👨🏻‍💻 I’m currently working on <private repository>.</li>
+      <li>🌱 I'm currently focusing on applying and improving my Python skills.</li>
+      <li>🤔 My interests are with LLMs, AI Agents and Digital Avatars, etc.</li>
+      <li>💼 I’m pursuing an MS degree in Columbia University.</li>
+      <li>💬 Ask me about anything, I would like to answer.</li>
+    </ul>
+  </div>
 
-<!-- 左侧 Status Quo -->
-<h3>Current Status Quo</h3>
-<ul>
-  <li>👨🏻‍💻 I’m currently working on <private repository>.</li>
-  <li>🌱 I'm currently focusing on applying and improving my Python skills.</li>
-  <li>🤔 My interests are with LLMs, AI Agents and Digital Avatars, etc.</li>
-  <li>💼 I’m pursuing an MS degree in Columbia University.</li>
-  <li>💬 Ask me about anything, I would like to answer.</li>
-</ul>
+  <!-- 右侧 GIF 图片 -->
+  <div style="flex-shrink: 0;">
+    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GIF" width="320">
+  </div>
 
-<!-- 清除浮动，防止影响下方内容 -->
-<div style="clear: both;"></div>
+</div>
 
 <!-- 居中的黄药师 -->
 <p align="center">
