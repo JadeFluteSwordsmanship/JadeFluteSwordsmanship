@@ -21,38 +21,36 @@
 
 Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Python🐍 is my weapon of choice, and coding is my art! Besides programming, I like delicious food 🥗🥩🌮🍣 and playing computer games🖥️🎮🕹️.
 
-<!-- 用 div 包裹表格，并强制去除所有边框 -->
+<!-- 让 Status Quo 和 GIF 左右排列 -->
 
-<div style="border: none; padding: 0; margin: 0;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-<table border="0" width="100%" style="border-collapse: collapse; border: none; margin: 0; padding: 0;">
-  <tr style="vertical-align: top; border: none;">
-    <!-- 左侧 Status Quo -->
-    <td width="60%" style="padding-right: 20px; border: none;">
-      <h3 style="margin-top: 0;">Current Status Quo</h3>
-      <ul style="margin-top: 0; padding-top: 0;">
-        <li>👨🏻‍💻 I’m currently working on <private repository>.</li>
-        <li>🌱 I'm currently focusing on applying and improving my Python skills.</li>
-        <li>🤔 My interests are with LLMs, AI Agents and Digital Avatars, etc.</li>
-        <li>💼 I’m pursuing an MS degree in Columbia University.</li>
-        <li>💬 Ask me about anything, I would like to answer.</li>
-      </ul>
-    </td>
-    <!-- 右侧 GIF 图片 -->
-    <td width="40%" style="border: none;">
-      <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GIF" width="300">
-    </td>
-  </tr>
-</table>
+  <!-- 左侧 Status Quo -->
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">Current Status Quo</h3>
+    <ul style="margin-top: 0; padding-top: 0;">
+      <li>👨🏻‍💻 I’m currently working on <private repository>.</li>
+      <li>🌱 I'm currently focusing on applying and improving my Python skills.</li>
+      <li>🤔 My interests are with LLMs, AI Agents and Digital Avatars, etc.</li>
+      <li>💼 I’m pursuing an MS degree in Columbia University.</li>
+      <li>💬 Ask me about anything, I would like to answer.</li>
+    </ul>
+  </div>
+
+  <!-- 右侧 GIF 图片 -->
+  <div style="flex-shrink: 0;">
+    <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GIF" width="300">
+  </div>
 
 </div>
 
-<!-- 居中的黄药师 -->
+<!-- 清除浮动，确保黄药师居中 -->
+<div style="clear: both;"></div>
 
+<!-- 居中的黄药师 -->
 <p align="center">
   <img src="images/huang.jpeg" alt="黄药师" width="300">
 </p>
-
 
 <!--![JadeFluteSwordsmanship's github stats](https://github-readme-stats.vercel.app/api?username=JadeFluteSwordsmanship&show_icons=true&hide_border=true) -->
 
