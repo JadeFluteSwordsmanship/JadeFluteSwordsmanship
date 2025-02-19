@@ -21,11 +21,12 @@
 
 Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Python🐍 is my weapon of choice, and coding is my art! Besides programming, I like delicious food 🥗🥩🌮🍣 and playing computer games🖥️🎮🕹️.
 
-<table style="border-collapse: collapse; border: none;">
+<table border="0" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td style="vertical-align: top; border: none;">
+    <!-- 左侧 Status Quo -->
+    <td style="vertical-align: top; padding-right: 20px;">
       <h3>Current Status Quo</h3>
-      <ul>
+      <ul style="margin-top: 0;">
         <li>👨🏻‍💻 I’m currently working on <private repository>.</li>
         <li>🌱 I'm currently focusing on applying and improving my Python skills.</li>
         <li>🤔 My interests are with LLMs, AI Agents and Digital Avatars, etc.</li>
@@ -33,12 +34,14 @@ Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China �
         <li>💬 Ask me about anything, I would like to answer.</li>
       </ul>
     </td>
-    <td style="vertical-align: top; border: none;">
-      <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GIF" width="350">
+    <!-- 右侧图片 -->
+    <td style="vertical-align: top;">
+      <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GIF" width="320">
     </td>
   </tr>
 </table>
 
+<!-- 居中的黄药师 -->
 <p align="center">
   <img src="images/huang.jpeg" alt="黄药师" width="300">
 </p>
