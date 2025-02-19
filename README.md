@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/simon-xsy/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
-<a href="sx2401@columbia.edu">
+<a href="mailto:sx2401@columbia.edu">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 <a href="https://leetcode.com/u/simon_ddup/">
@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Python🐍 is my weapon of choice, and coding is my art!  Currently, I'm a student at Columbia University. Beside's programming, I like delicious food 🥗🥩🌮🍣 and playing computer games🖥️🎮🕹️.
+Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Python🐍 is my weapon of choice, and coding is my art! Besides programming, I like delicious food 🥗🥩🌮🍣 and playing computer games🖥️🎮🕹️.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
@@ -31,4 +31,4 @@ Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China �
 - 💼 I’m pursuing an MS degree in Columbia University.
 - 💬 Ask me about anything, I would like to answer.
 
-<!--![JadeFluteSwordsmanship's github stats](https://github-readme-stats.vercel.app/api?username=JadeFluteSwordsmanship&show_icons=true&hide_border=true) -->
+![JadeFluteSwordsmanship's github stats](https://github-readme-stats.vercel.app/api?username=JadeFluteSwordsmanship&show_icons=true&hide_border=true) 
