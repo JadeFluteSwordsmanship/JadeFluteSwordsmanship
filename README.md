@@ -31,4 +31,6 @@ Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China �
 - 💼 I’m pursuing an MS degree in Columbia University.
 - 💬 Ask me about anything, I would like to answer.
 
-![JadeFluteSwordsmanship's github stats](https://github-readme-stats.vercel.app/api?username=JadeFluteSwordsmanship&show_icons=true&hide_border=true) 
+<!--![JadeFluteSwordsmanship's github stats](https://github-readme-stats.vercel.app/api?username=JadeFluteSwordsmanship&show_icons=true&hide_border=true) -->
+
+<p align="center">   <img src="images/huang.jpeg" alt="黄药师" width="300"> </p>
