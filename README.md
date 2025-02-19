@@ -21,16 +21,7 @@
 
 Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China 🇨🇳. Python🐍 is my weapon of choice, and coding is my art! Besides programming, I like delicious food 🥗🥩🌮🍣 and playing computer games🖥️🎮🕹️.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-
-**Current Status Quo**
-
-- 👨🏻‍💻 I’m currently working on \<private repository\>.
-- 🌱 I'm currently focusing on applying and improving my Python skills.
-- 🤔 My interests are with LLMs, AI Agents and Digital Avatars, etc.
-- 💼 I’m pursuing an MS degree in Columbia University.
-- 💬 Ask me about anything, I would like to answer.
+<table>   <tr>     <td>       <h3>Current Status Quo</h3>       <ul>         <li>👨🏻‍💻 I’m currently working on <private repository>.</li>         <li>🌱 I'm currently focusing on applying and improving my Python skills.</li>         <li>🤔 My interests are with LLMs, AI Agents and Digital Avatars, etc.</li>         <li>💼 I’m pursuing an MS degree in Columbia University.</li>         <li>💬 Ask me about anything, I would like to answer.</li>       </ul>     </td>     <td>       <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="GIF" width="400">     </td>   </tr> </table>  <p align="center">   <img src="images/huang.jpeg" alt="黄药师" width="300"> </p>
 
 <!--![JadeFluteSwordsmanship's github stats](https://github-readme-stats.vercel.app/api?username=JadeFluteSwordsmanship&show_icons=true&hide_border=true) -->
 
-<p align="center">   <img src="images/huang.jpeg" alt="黄药师" width="300"> </p>
