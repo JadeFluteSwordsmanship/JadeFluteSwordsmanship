@@ -16,6 +16,10 @@
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 
+<a href="https://www.instagram.com/your_instagram_username/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
+</a>
+
 <br />
 <br />
 
@@ -32,9 +36,12 @@ Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China �
 - 💼 I’m pursuing an MS degree in Columbia University.
 - 💬 Ask me about anything, I would like to answer.
 
-<p align="center">
-  <img src="images/huang.jpeg" alt="黄药师" width="300">
-</p>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31kv6btnezy76i6su6czz42w5j6e)
+
+---
+
+<!-- 右侧黄药师图片 -->
+<img align="right" src="images/huang.jpeg" alt="黄药师" Color=%237B1E7B" width="300">
 
 <!--![JadeFluteSwordsmanship's github stats](https://github-readme-stats.vercel.app/api?username=JadeFluteSwordsmanship&show_icons=true&hide_border=true) -->
 
