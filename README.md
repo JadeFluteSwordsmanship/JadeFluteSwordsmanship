@@ -16,7 +16,7 @@
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 
-<a href="https://www.instagram.com/your_instagram_username/">
+<a href="https://www.instagram.com/s1monxu/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
 </a>
 
@@ -33,14 +33,15 @@ Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China �
 - 👨🏻‍💻 I’m currently working on <private repository>.
 - 🌱 I'm currently focusing on applying and improving my Python skills.
 - 🤔 My interests are with LLMs, AI Agents and Digital Avatars, etc.
-- 💼 I’m pursuing an MS degree in Columbia University.
+- 💼 I’m pursuing a MS degree at Columbia University.
 - 💬 Ask me about anything, I would like to answer.
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31kv6btnezy76i6su6czz42w5j6e)
 
----
+<div style="clear: both;"></div> 
+<hr style="width: 100%; border: 1px solid #d0d7de;" />
 
 <p align="center">   <img src="images/huang.jpeg" alt="黄药师" width="300"> </p>
 
