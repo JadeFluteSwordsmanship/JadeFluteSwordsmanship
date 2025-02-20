@@ -36,11 +36,11 @@ Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China �
 - 💼 I’m pursuing an MS degree in Columbia University.
 - 💬 Ask me about anything, I would like to answer.
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31kv6btnezy76i6su6czz42w5j6e)
 
 ---
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" alt=""/>
 
 <p align="center">   <img src="images/huang.jpeg" alt="黄药师" width="300"> </p>
 
