@@ -40,8 +40,9 @@ Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China �
 
 ---
 
-<!-- 右侧黄药师图片 -->
-<img align="right" src="images/huang.jpeg" alt="黄药师" Color=%237B1E7B" width="300">
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B" alt=""/>
+
+<p align="center">   <img src="images/huang.jpeg" alt="黄药师" width="300"> </p>
 
 <!--![JadeFluteSwordsmanship's github stats](https://github-readme-stats.vercel.app/api?username=JadeFluteSwordsmanship&show_icons=true&hide_border=true) -->
 
