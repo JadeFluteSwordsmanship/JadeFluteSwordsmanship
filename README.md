@@ -30,7 +30,7 @@ Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China �
 
 ### Current Status Quo
 
-- 👨🏻‍💻 I’m currently working on <private repository>.
+- 👨🏻‍💻 I’m currently working on \<private repository\>.
 - 🌱 I'm currently focusing on applying and improving my Python skills.
 - 🤔 My interests are with LLMs, AI Agents and Digital Avatars, etc.
 - 💼 I’m pursuing a MS degree at Columbia University.
