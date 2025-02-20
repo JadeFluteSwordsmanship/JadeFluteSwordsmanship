@@ -40,10 +40,6 @@ Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China �
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31kv6btnezy76i6su6czz42w5j6e)
 
-  
-
-
-
 <div style="clear: both;"></div> 
 <hr style="width: 100%; border: 1px solid #d0d7de;" />
 
