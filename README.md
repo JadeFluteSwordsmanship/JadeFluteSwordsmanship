@@ -20,6 +20,10 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" />
 </a>
 
+<a href="https://www.douyin.com/user/MS4wLjABAAAALrnr4VJM0B_JvJiK862DR15WLxnqqORRJhsA5rq7DMg">
+  <img align="left" alt="Douyin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tiktok.svg" />
+</a>
+
 <br />
 <br />
 
