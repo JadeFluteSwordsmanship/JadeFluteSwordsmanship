@@ -40,7 +40,7 @@ Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China �
 - 💼 I hold an MS degree from Columbia University and am pursuing an MS degree at Tsinghua University.
 - 💬 Feel free to ask me anything; I'd love to connect.
 
-[![JadeFluteSwordsmanship's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeFluteSwordsmanship&show_icons=true&hide=contribs,issues,prs,commits&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31kv6btnezy76i6su6czz42w5j6e)
@@ -51,4 +51,4 @@ Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China �
 <p align="center">   <img src="images/huang.jpeg" alt="黄药师" width="300"> </p>
 
 <!--![JadeFluteSwordsmanship's github stats](https://github-readme-stats.vercel.app/api?username=JadeFluteSwordsmanship&show_icons=true&hide_border=true) -->
-
+[![JadeFluteSwordsmanship's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeFluteSwordsmanship&show_icons=true&hide=contribs,issues,prs&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
