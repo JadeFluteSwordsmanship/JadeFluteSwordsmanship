@@ -51,4 +51,3 @@ Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China �
 <p align="center">   <img src="images/huang.jpeg" alt="黄药师" width="300"> </p>
 
 <!--![JadeFluteSwordsmanship's github stats](https://github-readme-stats.vercel.app/api?username=JadeFluteSwordsmanship&show_icons=true&hide_border=true) -->
-[![JadeFluteSwordsmanship's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeFluteSwordsmanship&show_icons=true&hide=contribs,issues,prs&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
