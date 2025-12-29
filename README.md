@@ -36,7 +36,7 @@ Hi, I'm JadeFluteSwordsmanship 😉, a programmer 👨🏻‍💻 from China �
 
 - 👨🏻‍💻 I’m currently working on [Python(private repo)](https://github.com/JadeFluteSwordsmanship/python-interview-for-quant-ds) and [SequoiaFactorVersion](https://github.com/JadeFluteSwordsmanship/SequoiaFactorVersion).
 - 🌱 I'm currently focusing on applying and improving my Python skills.
-- 🤔 My interests are with LLMs, AI Agents, Embodied AI and Digital Humans, etc.
+- 🤔 My interests are with LLMs, AI Agents, Embodied AI, Digital Humans, AI for Data Science, etc.
 - 💼 I hold an MS degree from Columbia University and am pursuing an MS degree at Tsinghua University.
 - 💬 Feel free to ask me anything; I'd love to connect.
 
